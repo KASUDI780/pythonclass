@@ -1,0 +1,7 @@
+print("Welcome to python programming")
+print("5+10")
+print("i'm Kasudi")
+print(5*8)
+print(5+10)
+print(6>9)
+print(4==4)
